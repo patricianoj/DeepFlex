@@ -1,0 +1,76 @@
+,exercise_name,num_sets
+0,<Initial Activity>,0
+1,Arm Band Adjustment,23
+2,Arm straight up,1
+3,Band Pull-Down Row,21
+4,Bicep Curl,25
+5,Biceps Curl (band),22
+6,Box Jump (on bench),3
+7,Burpee,43
+8,Butterfly Sit-up,29
+9,Chest Press (rack),21
+10,Crunch,30
+11,Device on Table,94
+12,Dip,44
+13,Dumbbell Deadlift Row,25
+14,Dumbbell Row (knee on bench) (label spans both arms),29
+15,Dumbbell Row (knee on bench) (left arm),15
+16,Dumbbell Row (knee on bench) (right arm),15
+17,Dumbbell Squat (hands at side),30
+18,Dynamic Stretch (at your own pace),29
+19,Elliptical machine,22
+20,Fast Alternating Punches,30
+21,Invalid,0
+22,Jump Rope,30
+23,Jumping Jacks,25
+24,Kettlebell Swing,30
+25,Lateral Raise,30
+26,Lawnmower (label spans both arms),3
+27,Lawnmower (left arm),21
+28,Lawnmower (right arm),21
+29,"Lunge (alternating both legs, weight optional)",43
+30,Medicine Ball Slam,22
+31,Non-Exercise,94
+32,Note,2
+33,Overhead Triceps Extension,41
+34,Overhead Triceps Extension (label spans both arms),2
+35,Plank,61
+36,Power Boat pose,25
+37,Pushup (knee or foot variation),44
+38,Pushups,25
+39,Repetitive Stretching,16
+40,Rest,9
+41,Rowing machine,22
+42,Running (treadmill),21
+43,Russian Twist,33
+44,Seated Back Fly,30
+45,Shoulder Press (dumbbell),43
+46,Side Plank Left side,25
+47,Side Plank Right side,25
+48,Sit-up (hands positioned behind head),43
+49,Sit-ups,25
+50,Squat,25
+51,"Squat (arms in front of body, parallel to ground)",43
+52,Squat (hands behind head),21
+53,Squat (kettlebell / goblet),21
+54,Squat Jump,25
+55,Squat Rack Shoulder Press,29
+56,Static Stretch (at your own pace),30
+57,Static stretch,37
+58,Tap IMU Device,1
+59,Tap Left Device,93
+60,Tap Right Device,93
+61,Triceps Kickback (knee on bench) (label spans both arms),30
+62,Triceps Kickback (knee on bench) (left arm),13
+63,Triceps Kickback (knee on bench) (right arm),14
+64,Triceps extension (lying down),22
+65,Triceps extension (lying down) (left arm),1
+66,Triceps extension (lying down) (right arm),1
+67,"Two-arm Dumbbell Curl (both arms, not alternating)",44
+68,Unlisted Exercise,4
+69,V-up,43
+70,Walk,25
+71,Walking lunge,25
+72,Wall Ball,23
+73,Wall Squat,30
+74,Alternating Dumbbell Curl,1
